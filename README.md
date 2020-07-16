@@ -1,8 +1,6 @@
 ### Hi, I'm Ovi 👋
 
-
-
-Here are some ideas to get you started:
+What I'm doing now
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
